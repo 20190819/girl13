@@ -15,3 +15,6 @@ pip install aiofiles
 python girl13.py
 
 ```
+
+### tips：
+已下载的图很多，就不上传了
